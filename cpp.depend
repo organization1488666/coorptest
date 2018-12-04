@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543772540 source:c:\users\hellmaster\documents\cpp\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+
